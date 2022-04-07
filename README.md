@@ -4,7 +4,7 @@
 
   <h3>About me </h3>
   <ul>
-    <li>I am a Artificial intelligence ingenieering student at IPN <img align=" left" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/ipn_logo_national_polytechnic_institute.png" alt="Logo IPN" height ="30" width ="30"/></li>
+    <li>I am a Artificial intelligence ingenieering student at IPN <img align=" left" src="https://seeklogo.com/images/I/IPN-logo-BB9124D61B-seeklogo.com.png" alt="Logo IPN" height ="30" width ="20"/></li>
     <li>I'm currently learnig about full stack on LaunchX</li>
     <li>I love music, my favorite hobby is to do trading, I think that investment is the best option for the future</li>
   </ul>
