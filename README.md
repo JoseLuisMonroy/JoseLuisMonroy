@@ -5,8 +5,8 @@
   <h3>About me </h3>
   <ul>
     <li>I am a Artificial intelligence ingenieering student at IPN <img align=" left" src="https://seeklogo.com/images/I/IPN-logo-BB9124D61B-seeklogo.com.png" alt="Logo IPN" height ="30" width ="20"/></li>
-    <li>I'm currently learnig about full stack on LaunchX</li>
     <li>I love music, my favorite hobby is to do trading, I think that investment is the best option for the future</li>
+    <li>Other thing that I love is to learn new leanguages, nowadays the language that I am interested is Catalan</li>
   </ul>
 <a href="https://www.linkedin.com/in/Jose-Luis-Monroy-F/"><img align="left" src="https://img.shields.io/badge/-JoseMonroy-blue?style=flat-square&logo=Linkedin&logoColor=white" alt "JoseMonroy on LinkdedIn"/></a>
 <a href="mailto:mnry7999@gmail.com"><img align="left" src="https://img.shields.io/badge/-JoseMonroy-red?style=flat-square&logo=Gmail&logoColor=white" alt "Correo"/></a>
