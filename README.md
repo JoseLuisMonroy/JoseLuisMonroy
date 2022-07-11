@@ -8,6 +8,13 @@
     <li>I love music, my favorite hobby is to do trading, I think that investment is the best option for the future</li>
     <li>Other thing that I love is to learn new leanguages, nowadays the language that I am interested is Catalan</li>
   </ul>
+  <br>
+  <p align= "center">
+    <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JoseLuisMonroy&theme=react&show_icons=true&include_all_commits=true"/>
+    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLuisMonroy&theme=react&layout=compact" />
+    <img height= "150" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseLuisMonroy&theme=algolia&date_format=M%20j[%2C%20Y]"/>
+  </p>
+<br>
 <a href="https://www.linkedin.com/in/Jose-Luis-Monroy-F/"><img align="left" src="https://img.shields.io/badge/-JoseMonroy-blue?style=flat-square&logo=Linkedin&logoColor=white" alt "JoseMonroy on LinkdedIn"/></a>
 <a href="mailto:mnry7999@gmail.com"><img align="left" src="https://img.shields.io/badge/-JoseMonroy-red?style=flat-square&logo=Gmail&logoColor=white" alt "Correo"/></a>
 <a href="mailto:jmonroyf1800@alumno.ipn.mx"><img align="left" src="https://img.shields.io/badge/-JoseMonroy-blue?style=flat-square&logo=Gmail&logoColor=white" alt "Correo Institucional"/></a>
